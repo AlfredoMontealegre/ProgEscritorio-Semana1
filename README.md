@@ -1,2 +1,4 @@
-# SemestreIV-Pt1
-Repositorio de Programacion d. Applicaciones de Escritorio - Grupo 1
+# Programacion de Aplicaciones de Escritorio
+Semanas y actividades correspondientes a ellas, guardadas en
+carpetas para mejor organizacion y evitar redundancia en 
+multiples repositorios.
