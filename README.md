@@ -1,4 +1,2 @@
-# Programacion de Aplicaciones de Escritorio
-Semanas y actividades correspondientes a ellas, guardadas en
-carpetas para mejor organizacion y evitar redundancia en 
-multiples repositorios.
+# P d. App Escritorio - S1
+Semana 1 - Alfredo Montealegre
